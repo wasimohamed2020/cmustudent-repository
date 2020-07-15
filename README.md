@@ -8,3 +8,6 @@ Hello! My name is Wasi Mohamed. I was born and raised in Pennsylvania and my fam
 I hope to learn how to create compelling and clear data visualizations. I also hope to learn how to interpret data visualizations and be able to quickly spot misleading and poorly contructed ones. 
 
 # Portfolio
+
+Link to Data Visualization Assignment 2: https://wasimohamed2020.github.io/cmustudent-repository/dataviz2.md
+
