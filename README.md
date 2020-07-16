@@ -19,5 +19,5 @@ Link to Data Visualization Assignment 2: https://wasimohamed2020.github.io/cmust
 <div class="flourish-embed flourish-chart" data-src="visualisation/3191094" data-url="https://flo.uri.sh/visualisation/3191094/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-# 2015 Government Debt-to-GDP Ratio Treemap
+# Year-by-Year Government Debt-to-GDP Ratio Treemap
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3191518" data-url="https://flo.uri.sh/visualisation/3191518/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
