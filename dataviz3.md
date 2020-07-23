@@ -26,3 +26,6 @@ I then realized that seeing 5 years of data was much better than seeing 3 years 
 
 # FINAL VISUALIZATION
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/3261612" data-url="https://flo.uri.sh/visualisation/3261612/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
