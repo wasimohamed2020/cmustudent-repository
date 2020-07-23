@@ -8,6 +8,6 @@ sdfsdf
 sdfsdfsdf
 
 
-![GitHub Logo](https://github.com/wasimohamed2020/cmustudent-repository/issues/1#issue-664163468)
+![Jail Population Overview ORIGINAL](https://github.com/wasimohamed2020/cmustudent-repository/issues/1#issue-664163468)
 
 
