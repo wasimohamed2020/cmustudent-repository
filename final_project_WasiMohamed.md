@@ -25,9 +25,7 @@ Tool: I plan on completing this project using Shorthand.
 
 Wireframe Sketches: 
 
-https://github.com/wasimohamed2020/cmustudent-repository/issues/4#issue-669227808
 
-https://github.com/wasimohamed2020/cmustudent-repository/issues/5#issue-669228077
 
 # User Research and Interviews
 
