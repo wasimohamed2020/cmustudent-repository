@@ -27,6 +27,8 @@ Wireframe Sketches:
 
 ![WireframeBarChart](https://user-images.githubusercontent.com/68036976/88978647-1bb11300-d28e-11ea-9104-0f19a24f5409.jpg)
 
+![WireFrameChart](https://user-images.githubusercontent.com/68036976/88978721-3be0d200-d28e-11ea-8197-07f5a0c21dfc.jpg)
+
 # User Research and Interviews
 
 ## Research Protocol
