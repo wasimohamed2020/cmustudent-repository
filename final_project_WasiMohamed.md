@@ -11,7 +11,7 @@ My project will look at the effect, if any, the addition of a Pittsburgh Bureau 
 ## Project Structure: 
 
 Storyboard:
-1. Explain why the intervention seemed necessary. The police substation was considered as a response to a community survey that stated public safety as a significant concern for the residents of the northside. I would include a visual representation of those survey results that highlights the community concern around public safety. I plan to include some images of Northview Heighs in this section. This will take 8 seconds with 2 seconds of think time.
+1. Explain why the intervention seemed necessary. The police substation was considered as a response to a community survey that stated public safety as a significant concern for the residents of the northside. 74% of Northview Heights participants in the 2015 One Northside Community Census ranked safety as their top priority. I plan to include some images of Northview Heighs in this section. 
 
 2. Explain how the Buhl Foundation and subsequently the city chose to invest in the implementation of the substation in Northview Heights based upon those results. I plan to include some images of the 'ribbon-cutting' of the substation and the mayor with the police chief. 
 
