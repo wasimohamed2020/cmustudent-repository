@@ -25,6 +25,8 @@ Tool: I plan on completing this project using Shorthand.
 
 Wireframe Sketches: 
 
+https://user-images.githubusercontent.com/68036976/88978721-3be0d200-d28e-11ea-8197-07f5a0c21dfc.jpg
+
 
 
 # User Research and Interviews
