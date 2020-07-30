@@ -38,12 +38,14 @@ Scipt/Questions:
 6. What could be added that would help you to better understand this story? 
 
 Interviewees: 
-Jennifer Sloan, Social Change Fellow at The Pittsburgh Foundation
-Dr. Michael Yonas, Director of Research & Special Initiatives
-Brandi Fisher, Executive Director of the Alliance for Police Accountability 
+1. Jennifer Sloan, Social Change Fellow at The Pittsburgh Foundation
+2. Dr. Michael Yonas, Director of Research & Special Initiatives
+3. Brandi Fisher, Executive Director of the Alliance for Police Accountability 
 
 Answers:
+JS: Generally, she hoped it would be longer. 'It is a difficult topic to discuss in a short period of time' was a comment that would describe much of the interview. She appreciated the storyboard and liked how it started from before the substation existed. She found the original visulization clear, but not convincing (which is one of the points I am trying to make so that is good). The crime data visualization was clear but she was interested in disaggregated data (I think a breakdown between different crimes would be interesting, but it may make this too long). She mentioned adding a visualization at the end to show the disparities in Allegheny County Jail which I think is a great idea. 
 
+MY: 
 
 # Data
 Crime in the City of Pittsburgh categorized for Uniform Crime Reporting (UCR) from 2010 through May 2020 is publicly available in the Allegheny County data warehouse. This data is collected by the Pittsburgh Burea of Police and the data is updated monthly. 
