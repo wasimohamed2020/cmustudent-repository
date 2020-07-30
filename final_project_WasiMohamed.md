@@ -66,3 +66,5 @@ Link to crime data source: https://tableau.alleghenycounty.us/t/PublicSite/views
 
 Link to substation 1-year report: file:///Users/wasi.mohamed/Downloads/1NS_CommunityPolicing_Overview.pdf (I downloaded this from online and I think their page is down because I cannot find the link anymore, but I do have the report)
 
+Link to ACJ Data from Allegheny County Data Warehouse: https://www.alleghenycountyanalytics.us/index.php/2019/11/04/allegheny-county-jail-population-management-dashboards-2/
+
