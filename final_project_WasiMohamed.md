@@ -33,7 +33,10 @@ Wireframe Sketches:
 
 ## Research Protocol
 Target Audience: 
-The target audience would be policy professionals who are part of the crucial conversation around reimagining public safety. Ideally, those prepare to advocate once convinced of an idea or convinced to question current premises under which policy is being made. 
+The target audience would be policy professionals who are part of the crucial conversation around reimagining public safety. Ideally, those prepare to advocate once convinced of an idea or convinced to question current premises under which policy is being made. Funders, nonprofits, activists and elected officials are examples. 
+
+Plan to find interviews: 
+I reached out to members of the Reimagining Public Safety Workgroup and the Defund the Police Table. Many members of these groups have been actively working to reform the public safety infrastructure for years. I know most members personally so I plan to call them and interview them. 
 
 Scipt/Questions:
 1. Give the Project Summary (as shown above).
