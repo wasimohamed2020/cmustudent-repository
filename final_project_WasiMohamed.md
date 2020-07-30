@@ -54,5 +54,5 @@ Crime in the City of Pittsburgh categorized for Uniform Crime Reporting (UCR) fr
 
 Link to crime data source: https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_UCR_PGH_8-22-17_v3/Home?%3Aembed=y&%3AshowAppBanner=false&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no
 
-
+Link to substation 1-year report: file:///Users/wasi.mohamed/Downloads/1NS_CommunityPolicing_Overview.pdf (I downloaded this from online and I think their page is down because I cannot find the link anymore, but I do have the report)
 
