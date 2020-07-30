@@ -52,5 +52,7 @@ BF: Brandi immediately resonated with the point that was trying to be made consi
 # Data
 Crime in the City of Pittsburgh categorized for Uniform Crime Reporting (UCR) from 2010 through May 2020 is publicly available in the Allegheny County data warehouse. This data is collected by the Pittsburgh Burea of Police and the data is updated monthly. 
 
-Link to data source: https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_UCR_PGH_8-22-17_v3/Home?%3Aembed=y&%3AshowAppBanner=false&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no
+Link to crime data source: https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_UCR_PGH_8-22-17_v3/Home?%3Aembed=y&%3AshowAppBanner=false&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no
+
+
 
