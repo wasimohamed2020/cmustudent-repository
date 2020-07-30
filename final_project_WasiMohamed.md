@@ -17,17 +17,18 @@ Storyboard:
 
 3. Examine impact of substation after one year. Crime data from the City of Pittsburgh is publicly available (see link below). I will include a data visualization looking at the effect the addition of the substation in December 2018 had on crime in Northview Heights. The visualization will include data from 2014 to 2019 and look at Part 1 crimes (murder, rape, robbery, aggravated assault, burglary, theft, vehicle theft and arson.
 
+![WireframeBarChart](https://user-images.githubusercontent.com/68036976/88978647-1bb11300-d28e-11ea-9104-0f19a24f5409.jpg)
+
+![WireFrameChart](https://user-images.githubusercontent.com/68036976/88978721-3be0d200-d28e-11ea-8197-07f5a0c21dfc.jpg)
+
 4. What does data-driven mean? The original survey led to the Northview Heights substation being created and the year-one results led to an investment in two more substations. I want to end this presentation by discussing whether the decisions were justified based upon the data upon which they were made. I hope to then make a broader point on the inclusion of a graph or chart does not make a decision data-driven.
 
 5. Call to action. In this case, decisions were made while referencing data that did not support those decisions and there was not enough of a pushback from community. The call to action, for this paricular issue, is to understand that for too long more policing has been equated with public safety despite that not being the case. Overpolicing black communities, like Northview Heights, is likely why the dispariites exist in the Allegheny County Jail Population. We must reconsider the value of the substation and we must also reconsider our dogmatic belief in policing as a solution to public safety. 
 
+![WireframeChart](https://user-images.githubusercontent.com/68036976/88981964-2622db00-d295-11ea-82f4-ae75921b17ba.jpg)
+
 Tool: I plan on completing this project using Shorthand. 
 
-Wireframe Sketches: 
-
-![WireframeBarChart](https://user-images.githubusercontent.com/68036976/88978647-1bb11300-d28e-11ea-9104-0f19a24f5409.jpg)
-
-![WireFrameChart](https://user-images.githubusercontent.com/68036976/88978721-3be0d200-d28e-11ea-8197-07f5a0c21dfc.jpg)
 
 # User Research and Interviews
 
