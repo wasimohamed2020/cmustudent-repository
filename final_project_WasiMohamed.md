@@ -2,13 +2,19 @@
 
 # Introduction and Outline
 
-Project Name: Policing and Public Safety in Pittsburgh: Did the addition of the police substation in Northview Heights impact crime rates?
+Project Name: 
+Policing and Public Safety in Pittsburgh: Did the addition of the police substation in Northview Heights impact crime rates?
 
-Project Summary: My project will look at the effect, if any, the addition of a Pittsburgh Bureau of Police substation in Northview Heights had on crime in the neighborhood. This is something that has already been determined to be a success and has been subsequently replicated, so I hope to examine if that was justified by the data. 
+Project Summary: 
+My project will look at the effect, if any, the addition of a Pittsburgh Bureau of Police substation in Northview Heights had on crime in the neighborhood. This is something that has already been determined to be a success and has been subsequently replicated, so I hope to examine if that was justified by the data. 
 
 Project Structure: 
 
+
+
 Tool: I plan on completing this project using Shorthand. 
+
+
 
 # User Research and Interviews
 
