@@ -25,7 +25,7 @@ Tool: I plan on completing this project using Shorthand.
 
 Wireframe Sketches: 
 
-
+![WireframeBarChart](https://user-images.githubusercontent.com/68036976/88978647-1bb11300-d28e-11ea-9104-0f19a24f5409.jpg)
 
 # User Research and Interviews
 
