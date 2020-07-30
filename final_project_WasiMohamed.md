@@ -23,16 +23,29 @@ Storyboard:
 
 Tool: I plan on completing this project using Shorthand. 
 
-
-
 # User Research and Interviews
 
 ## Research Protocol
+Target Audience: 
+The target audience would be policy professionals who are part of the crucial conversation around reimagining public safety. Ideally, those prepare to advocate once convinced of an idea or convinced to question current premises under which policy is being made. 
 
+Scipt/Questions:
+1. Give the Project Summary (as shown above).
+2. Give an overview of the storyboard. 
+3. Was it clear why the substation was added in Northview Heights? Was the visualization of the surveys clear? If not, how could it be improved? 
+4. Was the visualization of the impact of the substation on crime clear? If not, how could it be improved? 
+5. Did this make you rethink the connection between public safety and policing? 
+6. What could be added that would help you to better understand this story? 
+
+Interviewees: 
+Jennifer Sloan, Social Change Fellow at The Pittsburgh Foundation
+Dr. Michael Yonas, Director of Research & Special Initiatives
+Brandi Fisher, Executive Director of the Alliance for Police Accountability 
+
+Answers:
 
 
 # Data
-
 Crime in the City of Pittsburgh categorized for Uniform Crime Reporting (UCR) from 2010 through May 2020 is publicly available in the Allegheny County data warehouse. This data is collected by the Pittsburgh Burea of Police and the data is updated monthly. 
 
 Link to data source: https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_UCR_PGH_8-22-17_v3/Home?%3Aembed=y&%3AshowAppBanner=false&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no
