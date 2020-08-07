@@ -73,6 +73,9 @@ Link to ACJ Data from Allegheny County Data Warehouse: https://www.alleghenycoun
 
 # Final Data Story
 
+## Intended Audience:
+I tailored this presentation to an audience that was interested in understanding more about public safety policy and how we can make positive changes. We are living in unprecedented times. The national conversation is fixed upon police reform and it is important that constituents understand how policy has been made before this moment. This case study gives this audience a succinct, classic example of exactly the kind of misstep that has brought our society to this explosive point. Ideally, the audience is not just comprised of people interested in learning about public safety reform but also those who aim to advocate for these needed changes. 
+
 
 ## Final Data Visualizations
 
