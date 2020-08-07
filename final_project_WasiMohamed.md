@@ -73,9 +73,13 @@ Link to ACJ Data from Allegheny County Data Warehouse: https://www.alleghenycoun
 
 # Final Data Story
 
+## What I learned from User Research and the Design Process: 
+It was clear from the user research, including out of class interviews and the in-class feedback breakout groups, that the original point I was trying to make needed to be connected to a larger one. Namely, I was advised to ensure that my condemnation of both the process preceding and the addition of the substation in Northview Heights needed to be connected to the larger discussion around public safety reform more explicitly. Each interviewee also mentioned that I needed to connect this to the glaring disparities at Allegheny County Jail (ACJ). 
+
+From this feedback, I made a few key changes. I added two pie charts, one depicting the breakdown of race in Allegheny County in 2019 and the other depicting the race breakdown of the 2019 population. The two were meant to highlight the disturbingly high rate at which African Americans are jailed at ACJ and I further highlighted this with images showing a white woman sitting and enjoying the open space of a park and a black woman behind bars. I added a phase out transition between the two images and graphs to help make the contrast. I also changed my call to action. I originally was just going to call for people to pressure the Mayor to abandon his commitment to substations until it showed much more benefit, but this completely missed a much more crucial issue. The process being broken is the biggest problem with the Northview Heights story. Solutions and innovative ideas may not always turn out how we would like, but a process that does not center the voices of those most impacted is doomed to fail. This is why I added the ask to the Mayor that he build a community advisory group for the new Office of Community Health and Safety. 
+
 ## Intended Audience:
 I tailored this presentation to an audience that was interested in understanding more about public safety policy and how we can make positive changes. We are living in unprecedented times. The national conversation is fixed upon police reform and it is important that constituents understand how policy has been made before this moment. This case study gives this audience a succinct, classic example of exactly the kind of misstep that has brought our society to this explosive point. Ideally, the audience is not just comprised of people interested in learning about public safety reform but also those who aim to advocate for these needed changes. 
-
 
 ## Final Data Visualizations
 
