@@ -24,7 +24,7 @@ This page contains a critique and redesign of a data visualization used by Alleg
 Link to Final Project: 
 [Policing and Public Safety in Pittsburgh: Did the addition of the police substation in Northview Heights impact crime rates?](https://wasimohamed2020.github.io/cmustudent-repository/final_project_WasiMohamed)
 Description:
-This page contains my final project, a look into policing and public safety in Pittsburgh. This looks at the case study 
+This page contains my final project, a look into policing and public safety in Pittsburgh. This looks at the case study of Northview Heights and if the addition of a Pittsburgh Bureau of Police substation in the neighborhood had an effect on crime. It follows a story that starts with a community survey and ends with data that is part of an assessment of the effectiveness of an intervention. I used Shorthand to create this project and the link is found on this page. The data came from the [Allegheny County Data Warehouse](https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_UCR_PGH_8-22-17_v3/Home?:embed=y&:showAppBanner=false&:showShareOptions=true&:display_count=no&:showVizHome=no).
 
 
 
