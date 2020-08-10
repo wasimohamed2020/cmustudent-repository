@@ -11,13 +11,15 @@ I hope to learn how to create compelling and clear data visualizations. I also h
 
 ## LINKS TO ASSIGNMENTS
 
-Link to Data Visualization #1, Assignment 2 - Visualizing Government Debt: [Data Visualization 1](https://wasimohamed2020.github.io/cmustudent-repository/dataviz2)
+Link to Data Visualization #1, Assignment 2 
+Visualizing Government Debt: [Data Visualization 1](https://wasimohamed2020.github.io/cmustudent-repository/dataviz2)
 Description:
 This page contains comparisons of Debt-to-GDP ratios of governments in 2015. These governments are all members of the Organisation for Economic Co-operation and Development (OECD). It contains three data visualizations: a bar chart, a grid of line chart, and a treemap. The data comes from data.oecd.org.
 
-Link to Data Visualization #2, Assignment 3: [Data Visualization 2](https://wasimohamed2020.github.io/cmustudent-repository/dataviz3)
+Link to Data Visualization #2, Assignment 3 & 4 
+Critique by Design - Allegheny County Jail Population Trends: [Data Visualization 2](https://wasimohamed2020.github.io/cmustudent-repository/dataviz3)
 Description: 
-This page contains 
+This page contains a critique and redesign of a data visualization used by Allegheny County to demonstrate changes in the Allegheny County Jail Population over a period of time where several interventions were implemented in order to decrease the population by 20%. Since 2017, Allegheny County has participated in the Safety and Justice Challenge as an Innovation site, one of 20 competitively selected jurisdictions receiving small project grants and technical assistance from the Urban Institute in support of targeted efforts to safely reduce jail misuse and overuse. The MacArthur Foundation gave the county $2 Million to make this happen.
 
 Link to Final Project: [Final Project](https://wasimohamed2020.github.io/cmustudent-repository/final_project_WasiMohamed)
 Description:
