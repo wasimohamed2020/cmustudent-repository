@@ -11,7 +11,7 @@ I hope to learn how to create compelling and clear data visualizations. I also h
 
 ## LINKS TO ASSIGNMENTS
 
-Link to Data Visualization #1, Assignment 2: https://wasimohamed2020.github.io/cmustudent-repository/dataviz2/
+Link to Data Visualization #1, Assignment 2: https://wasimohamed2020.github.io/cmustudent-repository/dataviz2
 
 Link to Data Visualization #2, Assignment 3: 
 
