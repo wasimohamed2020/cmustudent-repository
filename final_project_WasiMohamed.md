@@ -1,3 +1,5 @@
+[Link to Main Portfolio Page](https://wasimohamed2020.github.io/cmustudent-repository/)
+
 # Final Project
 
 # Part 1
