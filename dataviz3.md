@@ -24,7 +24,27 @@ I then realized that seeing 5 years of data was much better than seeing 3 years 
 
 ![Wireframe2](https://user-images.githubusercontent.com/68036976/88249156-8c927280-cc71-11ea-8c3e-5dd2950790c5.jpg)
 
+## Test the Solution: User Interviews
 
+Can you tell me what you think this is?
+USER 1: I think this is a visualization that is trying to show me the impacts of certain interventions on the jail population. 
+USER 2: I think this is a graph that is showing me what happened after changes were made in the Allegheny County Jail. Specifically, what changes were seen in the jail population after the changes were made. 
+
+Can you describe to me what this is telling you?
+USER 1: This is telling me that the jail population was not impacted by the interventions but was only impacted by COVID-19. 
+USER 2: This seems to tell me that the interventions did not go very well. It seems like only COVID-19 had an impact on the jail population. It seems that claiming success would be disingenuous.
+
+Is there anything you find surprising or confusing?
+USER 1: I am surprised that COVID-19 had such a drastic effect on the jail population. There may have been some impacts of the interventions as well to see such a drastic impact. 
+USER 2: I was surprised that the interventions were so ineffective. It makes me think that maybe it takes time to see those changes lead to actual changes in the jail population, but the grant you mentioned was to do 20% over two years so it seems in this case they failed. 
+
+Who do you think is the intended audience for this?
+USER 1: I think the intended audience is activists and community members that will use this information to judge if the county is truly serious about these interventions. 
+USER 2: I think the audience is the funders who are due a report and the committee of folks that have been tasked with getting the population down by 20%. They can now see clearly that the interventions did not go far enough. 
+
+Is there anything you would change or do differently?
+USER 1: No, I can't think of anything. 
+USER 2: Yes, I would add the start of the unfunded interventions. I was part of the committee and interventions started even earlier than the funded ones. 
 
 
 # FINAL VISUALIZATION
