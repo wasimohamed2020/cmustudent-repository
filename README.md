@@ -11,7 +11,7 @@ I hope to learn how to create compelling and clear data visualizations. I also h
 
 ## LINKS TO ASSIGNMENTS
 
-Link to Data Visualization #1, Assignment 2: 
+## Link to Data Visualization #1, Assignment 2: 
 [Visualizing Government Debt](https://wasimohamed2020.github.io/cmustudent-repository/dataviz2)
 
 Description:
@@ -19,7 +19,7 @@ This page contains comparisons of Debt-to-GDP ratios of governments in 2015. The
 
 
 
-Link to Data Visualization #2, Assignment 3 & 4: 
+## Link to Data Visualization #2, Assignment 3 & 4: 
 [Critique by Design - Allegheny County Jail Population Trends](https://wasimohamed2020.github.io/cmustudent-repository/dataviz3)
 
 Description: 
@@ -27,7 +27,7 @@ This page contains a critique and redesign of a data visualization used by Alleg
 
 
 
-Link to Final Project: 
+## Link to Final Project: 
 [Policing and Public Safety in Pittsburgh: Did the addition of the police substation in Northview Heights impact crime rates?](https://wasimohamed2020.github.io/cmustudent-repository/final_project_WasiMohamed)
 
 Description:
