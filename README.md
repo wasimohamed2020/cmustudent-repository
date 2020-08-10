@@ -19,12 +19,12 @@ This page contains comparisons of Debt-to-GDP ratios of governments in 2015. The
 Link to Data Visualization #2, Assignment 3 & 4: 
 [Critique by Design - Allegheny County Jail Population Trends](https://wasimohamed2020.github.io/cmustudent-repository/dataviz3)
 Description: 
-This page contains a critique and redesign of a data visualization used by Allegheny County to demonstrate changes in the Allegheny County Jail Population over a period of time where several interventions were implemented in order to decrease the population by 20%. Since 2017, Allegheny County has participated in the Safety and Justice Challenge as an Innovation site, one of 20 competitively selected jurisdictions receiving small project grants and technical assistance from the Urban Institute in support of targeted efforts to safely reduce jail misuse and overuse. The MacArthur Foundation gave the county $2 Million to make this happen.
+This page contains a critique and redesign of a data visualization used by Allegheny County to demonstrate changes in the Allegheny County Jail Population over a period of time where several interventions were implemented in order to decrease the population by 20%. Since 2017, Allegheny County has participated in the Safety and Justice Challenge as an Innovation site, one of 20 competitively selected jurisdictions receiving small project grants and technical assistance from the Urban Institute in support of targeted efforts to safely reduce jail misuse and overuse. The MacArthur Foundation gave the county $2 Million to make this happen. The data came from the [Allegheny County Data Warehouse](https://www.alleghenycountyanalytics.us/index.php/2019/11/04/allegheny-county-jail-population-management-dashboards-2/) 
 
 Link to Final Project: 
 [Policing and Public Safety in Pittsburgh: Did the addition of the police substation in Northview Heights impact crime rates?](https://wasimohamed2020.github.io/cmustudent-repository/final_project_WasiMohamed)
 Description:
-This page contains my final project, a 
+This page contains my final project, a look into policing and public safety in Pittsburgh. This looks at the case study 
 
 
 
