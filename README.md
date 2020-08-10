@@ -7,6 +7,9 @@ Hello! My name is Wasi Mohamed. I was born and raised in Pennsylvania and my fam
 ## What I hope to learn from this course
 I hope to learn how to create compelling and clear data visualizations. I also hope to learn how to interpret data visualizations and be able to quickly spot misleading and poorly contructed ones. 
 
+## What I learned from this course
+I was fortunate to have learned exactly what I aimed to learn in this course. Although I have only just begun my journey toward being able to effectively analyze and create data visualizations, I feel like I now have a solid foundation. The part I appreciated the most by this course, aside from the new tools in my toolbox, was the opportunity to incorporate real world issues that related to both my job and personal passions. By selecting issues that I was particularly interested in digging into, I was more engaged than I otherwise had been and now have more of an appreciation of the power of data visualizations than I otherwise would have had. 
+
 # Portfolio
 
 ## LINKS TO ASSIGNMENTS
